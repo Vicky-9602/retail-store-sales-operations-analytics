@@ -272,9 +272,7 @@ Based on the analysis:
 
 ## Tools Used
 
-- MySQL
 - MySQL Workbench
-- SQL
 - Relational Database Design
 - Data Analysis
 - Business Analytics
